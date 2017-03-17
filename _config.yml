@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Cidadania Inteligente
+email: hola@cidadaniainteligente.org
+description: "Usamos a tecnologia para tornar a democracia mais transparente e participativa; trabalhamos para compartilhar o poder de poucos para muitos."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cidadaniainteligente.org" # the base hostname & protocol for your site
+twitter_username: ciudadanointeligente
+github_username:  ciudadanointeligente
+
+# Build settings
+markdown: kramdown
