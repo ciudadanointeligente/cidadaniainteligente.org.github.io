@@ -1,7 +1,7 @@
 ---
 name: Weyni Rodrigues
 function: Design e Mídias Sociais
-bio: Design
+bio: Fascinada pelas possibilidades de comunicar, busca expressar sensibilidade por formas democráticas e sustentáveis no designer
 image: weyni.jpg
 email: wrodrigues@cidadaniainteligente.org
 network_twitter: 
