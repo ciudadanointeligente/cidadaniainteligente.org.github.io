@@ -1,12 +1,12 @@
 ---
 name: Weyni Rodrigues
 function: Design e Mídias Sociais
-bio: 
-image: 
+bio: Design
+image: weyni.jpg
 email: wrodrigues@cidadaniainteligente.org
-network_twitter: https://twitter.com/
-network_linkedin: https://www.linkedin.com/in//
-network_github: 
+network_twitter: 
+network_linkedin: https://www.linkedin.com/in/weyni-rodrigues-143825112/
+network_github: www.behance.net/weyni
 network_googleplus:
 network_facebook:
 network_instagram:
