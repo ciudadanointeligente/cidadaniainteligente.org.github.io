@@ -1,14 +1,14 @@
 ---
 name: Luti Guedes
 function: Coordenador Brasil
-bio: Emprendedor cívico por más derechos, gobiernos y ciudades humanas.
+bio: Empreendedor cívico por mais direitos, governos e cidades humanas.
 image: luti1.jpg
 email: lguedes@ciudadanointeligente.org
 network_twitter: https://twitter.com/lutiguedes
 network_linkedin: https://www.linkedin.com/in/lutiguedes/
 network_github: 
 network_googleplus:
-network_facebook:
-network_instagram:
+network_facebook: https://www.facebook.com/lutiguedes
+network_instagram:https://www.instagram.com/lutiguedes/
 active: true
 ---
