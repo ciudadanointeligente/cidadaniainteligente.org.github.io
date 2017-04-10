@@ -1,7 +1,7 @@
 ---
 name: Frederick Silva
-function: Coordenador Brasil
-bio: Empreendedor cívico por mais direitos, governos e cidades humanas.
+function: Colaborador Web 
+bio: Hacker criativo que acredita que a melhor forma possível para mudança é a inclusão da população no debate público, criando sempre diálogos multidisciplinares.
 image: fred.jpg
 email: lguedes@ciudadanointeligente.org
 network_twitter: https://twitter.com/fredericksilva
