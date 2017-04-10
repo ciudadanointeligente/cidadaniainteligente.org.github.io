@@ -9,6 +9,6 @@ network_linkedin: https://www.linkedin.com/in/lutiguedes/
 network_github: 
 network_googleplus:
 network_facebook: https://www.facebook.com/lutiguedes
-network_instagram:https://www.instagram.com/lutiguedes/
+network_instagram: https://www.instagram.com/lutiguedes/
 active: true
 ---
