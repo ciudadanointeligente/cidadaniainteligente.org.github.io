@@ -1,9 +1,9 @@
 ---
 name: Maria Luiza Freire
 function: Colaboradora
-bio: Um mundo mais democrático só é possível se expressarmos juntos nossa vontade coletiva de mudança social (e bem alto!).
+bio: Bacharel em direito com o foco em direitos humanos, direito urbanístico e diversidade, acredita que a inclusão social e o debate interdisciplinar são fundamentais para democratização dos espaços de incidência e resiliência nas cidades.
 image: malu.jpg
-email: malufreire1@gmail.com
+email: mfreire@cidadaniainteligente.org
 network_twitter: 
 network_linkedin: https://www.linkedin.com/in/maria-luiza-freire-merc%C3%AAs-55a837bb/
 network_github: 
